@@ -1,0 +1,2 @@
+HesaiLidar_General_ROS:HesaiLidar_calib:lidar2car
+-DCATKIN_DEVEL_PREFIX=/home/max/Documents/01_Project/17_lidar/HesaiLidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/max/Documents/01_Project/17_lidar/HesaiLidar_ws/install -G Unix Makefiles

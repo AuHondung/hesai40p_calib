@@ -1,0 +1,8 @@
+prefix=/home/max/Documents/01_Project/17_lidar/HesaiLidar_ws/install
+
+Name: hesai_lidar
+Description: Description of hesai_lidar
+Version: 0.2.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
